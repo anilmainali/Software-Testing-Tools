@@ -1,4 +1,4 @@
-# JMeter.md 
+# JMeter
 
 #### What is JMeter?
 
