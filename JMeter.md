@@ -1,4 +1,4 @@
-# Welcome to JMeter.md where I will be discussing about the following topics:
+# JMeter.md 
 
 #### What is JMeter?
 
@@ -8,10 +8,10 @@
 
 ####  Basic explanation of the interface 
 
-####  Steps to  Set a Porxy 
+####  Steps toSet a Porxy 
 
 #### Recording a Sample Script 
 
 #### Running The script
 
-#### Putting Assertions to for validation 
+#### Putting Assertions for validation 
