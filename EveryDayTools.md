@@ -6,6 +6,8 @@
 The website by Fiddler creator Eric Lawrence : https://textslashplain.com/
 
 ## PINGDOM
+web performance monitoring
+
 https://www.pingdom.com/
 
 
