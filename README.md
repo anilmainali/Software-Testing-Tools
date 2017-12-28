@@ -4,6 +4,7 @@
 ### Bug Tracking Tools
 - Bugzilla
 https://www.bugzilla.org/
+- Jira
 
 ### Communications Testing Tools
 ### Compatibility Testing Tools
