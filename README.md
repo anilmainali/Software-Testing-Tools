@@ -5,6 +5,7 @@
 - Bugzilla
 https://www.bugzilla.org/
 - Jira
+https://www.atlassian.com/software/jira
 
 ### Communications Testing Tools
 ### Compatibility Testing Tools
