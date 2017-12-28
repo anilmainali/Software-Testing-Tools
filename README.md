@@ -2,6 +2,7 @@
 ## List of Software Testing Tools
 ### API Testing Tools
 ### Bug Tracking Tools
+- Bugzilla
 ### Communications Testing Tools
 ### Compatibility Testing Tools
 ### Database Testing Tools
