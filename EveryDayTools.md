@@ -3,6 +3,9 @@
 
 ## Jing
 
+## Google Chrome Plugin
+- Awesome Screenshot: Screen Video Rec
+
 #### Fiddler
 The website by Fiddler creator Eric Lawrence : https://textslashplain.com/
 
