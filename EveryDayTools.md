@@ -22,6 +22,9 @@ https://www.pingdom.com/
 - Pingdom
 - GTmetrix
 - WebPageTest
+- Sucuri Load Time Tester
+- Pagelocity
+- PerfTool
 
 
 
