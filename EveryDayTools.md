@@ -27,8 +27,7 @@ https://www.pingdom.com/
 - PerfTool
 
 ## Online Spell Check Tool
-- https://www.internetmarketingninjas.com/online
-- spell-checker.php
+- https://www.internetmarketingninjas.com/online-spell-checker.php
 - http://checkdog.com/
 - https://typosaur.us/
 
