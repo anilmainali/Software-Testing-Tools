@@ -30,6 +30,8 @@ https://www.pingdom.com/
 - https://www.internetmarketingninjas.com/online
 
 - spell-checker.php
+- http://checkdog.com/
+
 
 
 
