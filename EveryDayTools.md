@@ -18,6 +18,7 @@ https://www.pingdom.com/
 - Google PageSpeed Insights
 - Google Chrome DevTools
 - YSlow
+- KeyCDN Speed Test
 
 
 
