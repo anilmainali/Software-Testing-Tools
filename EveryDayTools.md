@@ -19,6 +19,9 @@ https://www.pingdom.com/
 - Google Chrome DevTools
 - YSlow
 - KeyCDN Speed Test
+- Pingdom
+- GTmetrix
+- WebPageTest
 
 
 
