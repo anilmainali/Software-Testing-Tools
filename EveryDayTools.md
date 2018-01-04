@@ -28,9 +28,9 @@ https://www.pingdom.com/
 
 ## Online Spell Check Tool
 - https://www.internetmarketingninjas.com/online
-
 - spell-checker.php
 - http://checkdog.com/
+- https://typosaur.us/
 
 
 
