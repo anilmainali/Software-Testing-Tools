@@ -16,6 +16,7 @@ https://www.pingdom.com/
 
 ## Website Speed Test Tools
 - Google PageSpeed Insights
+- Google Chrome DevTools
 
 
 
