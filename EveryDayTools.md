@@ -19,7 +19,7 @@ https://www.pingdom.com/
 - Google Chrome DevTools
 - YSlow
 - KeyCDN Speed Test
-- Pingdom
+- Pingdom - https://tools.pingdom.com/
 - GTmetrix
 - WebPageTest
 - Sucuri Load Time Tester
